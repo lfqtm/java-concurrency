@@ -22,4 +22,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-.idea
+target\
+target\
+eight-cores/eight-cores.iml
+eight-cores/src/main/java/com/qlk/createthread/wrongway/
+eight-cores/src/main/resources/
+eight-cores/src/test/
+eight-cores/target/generated-sources/
